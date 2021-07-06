@@ -1228,6 +1228,7 @@ set(DISSECTOR_SRC
 	${CMAKE_CURRENT_SOURCE_DIR}/packet-igrp.c
 	${CMAKE_CURRENT_SOURCE_DIR}/packet-imap.c
 	${CMAKE_CURRENT_SOURCE_DIR}/packet-imf.c
+	${CMAKE_CURRENT_SOURCE_DIR}/packet-imp.c
 	${CMAKE_CURRENT_SOURCE_DIR}/packet-indigocare-icall.c
 	${CMAKE_CURRENT_SOURCE_DIR}/packet-indigocare-netrix.c
 	${CMAKE_CURRENT_SOURCE_DIR}/packet-infiniband.c
